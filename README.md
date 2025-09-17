@@ -83,7 +83,7 @@ endmodule
 ```
 ## Simulated Output
 
-_____ Keep Simulated output ___________
+<img width="1920" height="1200" alt="bcd_7_segment" src="https://github.com/user-attachments/assets/30038b86-deb1-4620-9868-aa98ab5c0a9d" />
 
 ---
 
